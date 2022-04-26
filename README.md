@@ -9,7 +9,7 @@ FlutterTeam091
 
 ## Takım Elemanları
 
-- Betül Bölükbaşı:
+- Betül Bölükbaş:
 - Defne Angın: 
 - Elif Peker: 
 - Fatih Çatal: 
