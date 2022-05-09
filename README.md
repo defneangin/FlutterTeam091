@@ -21,7 +21,7 @@ What To-Do?
 
 ## Ürün Açıklaması
 
-What To-Do? kısaca WTD? oyunlaştırılmış bir mobil üretkenlik uygulamasıdır. Ürünümüz, davranış psikolojisi kuramları ve oyun-odaklı düşünme tekniğiyle, kullanıcıları yapılacaklar listesindeki görevlerini tamamlamaya motive eder. Ürünün nihayi hedefi, erteleme alışkanlığı olan bireylerde görülen 'birikmiş yapılacaklar listesi' durumunun yarattığı stresi azaltmak ve iş-yaşam dengesini mümkün kılarak kullanıcının ruhsal sağlığına katkıda bulunmaktır.
+What To-Do? kısaca WTD? oyunlaştırılmış bir mobil üretkenlik uygulamasıdır. Ürünümüz, davranış psikolojisi kuramları ve oyun-odaklı düşünme tekniğiyle, kullanıcıları yapılacaklar listesindeki görevlerini tamamlamaya motive eder. Ürünün temel hedefi, erteleme alışkanlığı olan bireylerde görülen 'birikmiş yapılacaklar listesi' durumunun yarattığı stresi azaltmak ve iş-yaşam dengesini mümkün kılarak kullanıcının ruhsal sağlığına katkıda bulunmaktır.
 
 ## Ürün Özellikleri
 
