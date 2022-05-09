@@ -29,10 +29,10 @@ Design Thinking Canvas'ı inceleyiniz.
 
 ## Hedef Kitle
 
-Erteleyiciler
-15-40 yaş
-Akıllı telefon kullanan, yapılacakalr listesini bu telefona not alan
-Eğitim/Profesyonel hayatında birkaç farklı görevi olan
+-- Erteleyiciler
+-- 15-40 yaş
+-- Akıllı telefon kullanan, yapılacakalr listesini bu telefona not alan
+-- Eğitim/Profesyonel hayatında birkaç farklı görevi olan
 
 ## Product Backlog URL
 
