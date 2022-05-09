@@ -61,6 +61,7 @@ Daily scrum'lar discord üzerinden yazılı olarak gerçekleştirilmiştir.
 
 
 - **Sprint Review**: 
+- Ürün hazırlığı aşamasındaki değerlerimizi belirledik ve bu yönde çalışmalara başladık. What To-Do? uygulaması için uygulamayı farklı kılacak ek özellikler belirlendi.
 
 
 - **Sprint Retrospective:**
