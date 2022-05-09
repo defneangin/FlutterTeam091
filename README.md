@@ -64,7 +64,8 @@ Daily scrum'lar discord üzerinden yazılı olarak gerçekleştirilmiştir.
 
 
 - **Sprint Retrospective:**
-
+Daha sık buluşmalar planlanarak takım içi iletişimin arttırılması
+Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 
 -**Diğer Notlar**:
 - N/A
