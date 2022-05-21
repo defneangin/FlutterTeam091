@@ -75,16 +75,16 @@ Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 
 # Sprint 2
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Hikayeler için T-shirt size estimation yapıldı, ürünün UX tasarımı yapıldı, hikayelerin tamamlandı tanımları eklendi, geliştirmelere başlandı.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**:  Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. Geri kalan 3 sprint'e bölündüğünde  ve MVPyi karşıladığı için bu sprintte en azından 80 puan ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: 
+- **Backlog düzeni ve Story seçimleri**: Backlogdaki storyler öncelik sıralamasına göre düzenlenmiştir. İlk tamamlanacak 3 story ile MVP oluşacaktır.
 
 
-- **Daily Scrum**: 
+- **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.]
 
 - **Sprint board update**: Sprint board screenshotları: 
 
