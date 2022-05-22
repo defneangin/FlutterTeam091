@@ -1,4 +1,7 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
+import 'package:flutter_fortune_wheel/flutter_fortune_wheel.dart';
 
 void main() => runApp(MyApp());
 
@@ -30,11 +33,12 @@ class AnaEkran extends StatefulWidget {
   @override
   _AnaEkranState createState() => _AnaEkranState();
 }
+StreamController<int> controller = StreamController.broadcast();
 
 class _AnaEkranState extends State<AnaEkran> {
-  bool value = false
+  bool value = false;
   TextEditingController t1 = TextEditingController();
-  List<String> yapilacaklarListesi = [ ];
+  List yapilacaklarListesi = [ ];
 
   elemanEkle(){
     setState(() {
@@ -49,6 +53,22 @@ class _AnaEkranState extends State<AnaEkran> {
       t1.clear();
     });
   }
+  carkaGit(){
+    Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) {
+            return Scaffold(
+              appBar:  AppBar(),
+              body:
+            FortuneWheel(
+              selected: controller.stream,
+              items: [
+              for (var i in yapilacaklarListesi) FortuneItem(child: Text(i)),
+              ],
+            )
+            );
+    },));
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -61,12 +81,6 @@ class _AnaEkranState extends State<AnaEkran> {
               itemBuilder: (context, siraNumarasi) => ListTile(
                 subtitle: Text(""),
                 title: Text(yapilacaklarListesi[siraNumarasi]),
-                children: [
-                  Checkbox(
-                      value: value,
-                      onChanged: (value)=> setState((); this.value = value!,
-                  )
-                ]
               ),
             ),
           ),
@@ -81,6 +95,10 @@ class _AnaEkranState extends State<AnaEkran> {
             onPressed: elemanCikar,
             child: Text("Çıkar"),
           ),
+          ElevatedButton(
+              onPressed: carkaGit,
+              child: Text("Çarka Git"),
+          )
         ],
       ),
     );
