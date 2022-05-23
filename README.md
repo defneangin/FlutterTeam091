@@ -84,7 +84,7 @@ Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 - **Backlog düzeni ve Story seçimleri**: Backlogdaki storyler öncelik sıralamasına göre düzenlenmiştir. İlk tamamlanacak 3 story ile MVP oluşacaktır.
 
 
-- **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.]
+- **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.] (https://docs.google.com/document/d/1UhHxOKS5XPDGUEqN_U-SIU3q2QGkN2rcFnKrQiSntg8/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
@@ -93,9 +93,10 @@ Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 
 
 - **Sprint Review**: 
+Tamamlanması hedeflenen 80 puandan 30 puan bitirildi. Eksik kalan 50 puanlık hikaye product backloga geri alındı.
 
-
-- **Sprint Retrospective:**
+- **Sprint Retrospective:** 
+- sprint 1e göre daha düzenli çalıştık ve görev dağılımları yaptık. Daha aktif şekilde iletişim kurabildik fakat her planladığımız toplantıyı gerçekleştiremedik. Sonraki sprintte hedeflerimize tam ulaşabiliriz.// Sprint 1'de eksik kalan çalışmalarımızı ve Sprint2'de bitirilmesi gereken çalışmalarımızı tamamladık. Uygulama konusunda somut çalışmalar elde etmeye başladık. Bir sonraki Sprint için ekip içi iletişimimizi geliştirerek daha verimli toplantılar yapabiliriz.//sprint 2'de daha fazla iletişim halinde olduğumuzu, kendi adıma konuşursam performansımın düşük olduğunu düşünüyorum. 3. sprintte bireysel olarak daha fazla katkı sağlamak istiyorum, takım halinde de daha iyi çalışabilirsek projeyi güzelce tamamlayabileceğimize inanıyorum.//Sprint 1’e kıyasla daha hızlı iletişim kurup somut çıktılar oluşturabildik. Tasarım ve kodlamayı entegre etmeyi amaçlayarak bu doğrultuda araştırmalara başladık. Toplantıları belirlenen zamanda yapma konusunda problemler yaşadık ve birkaç tane toplantıyı bu nedenle yapamadık. Bir sonraki sprint’te kod’a tasarımın entegre edilmesi sayesinde daha güçlü bir arayüz ve kullanıcı deneyimi oluşturabileceğimizi düşünüyorum.//Sprint 1 e göre üründe daha çok ilerledik ve sinerjimiz arttı. Ama ne yazık ki uzaktan çalıştığımız için görev dağılımı yapmakta, bir araya gelmekte ve dedike çalışmakta zorlandık. Sprint 3’te daha sık buluşup görev dağılımlarını daha net şekilde gerçekleştirebileceğimize inanıyorum.
 
 
 -**Diğer Notlar**:
