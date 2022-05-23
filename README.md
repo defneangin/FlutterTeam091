@@ -86,10 +86,13 @@ Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 
 - **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.](https://docs.google.com/document/d/1UhHxOKS5XPDGUEqN_U-SIU3q2QGkN2rcFnKrQiSntg8/edit?usp=sharing)
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: 
+- Sprint board screenshotları:
+- ![sprintbss](https://user-images.githubusercontent.com/91016593/169899365-c05e17bc-1968-4556-abab-27f666ca3749.PNG)
 
-
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: 
+- Ekran görüntüleri:
+- ![wtdss](https://user-images.githubusercontent.com/91016593/169899195-f3c85961-760b-497f-bc82-d12285014d73.PNG)
 
 
 - **Sprint Review**: 
