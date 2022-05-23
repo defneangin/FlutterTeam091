@@ -84,7 +84,7 @@ Trello'yu daha etkin kullanarak verimli çalışma alanı oluşturulması
 - **Backlog düzeni ve Story seçimleri**: Backlogdaki storyler öncelik sıralamasına göre düzenlenmiştir. İlk tamamlanacak 3 story ile MVP oluşacaktır.
 
 
-- **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.] (https://docs.google.com/document/d/1UhHxOKS5XPDGUEqN_U-SIU3q2QGkN2rcFnKrQiSntg8/edit?usp=sharing)
+- **Daily Scrum**: [Sprint 2 için daily scrum belgesine buradan ulaşabilirsiniz.](https://docs.google.com/document/d/1UhHxOKS5XPDGUEqN_U-SIU3q2QGkN2rcFnKrQiSntg8/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
