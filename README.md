@@ -11,9 +11,10 @@ FlutterTeam091
 
 - Betül Bölükbaş: Product Owner
 - Defne Angın: Scrum Master
-- Elif Peker: Developer team (UI/UX tasarımı)
-- Fatih Çatal: Developer team (Backend geliştirme)
-- Mert Mutlu: Developer team
+- Fatih Çatal & Mert Mutlu: Developer team (UI/UX tasarımı)
+- Fatih Çatal: Developer team (Fullstack dev)
+- Mert Mutlu: Developer team (Fullstack dev)
+- Elif Peker
 
 ## Ürün İsmi
 
