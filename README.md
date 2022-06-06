@@ -111,26 +111,37 @@ Tamamlanması hedeflenen 80 puandan 30 puan bitirildi. Eksik kalan 50 puanlık h
 # Sprint 3
 
 - **Sprint Notları**: 
+- Hikayeler tamamlandı, ürün tasarımı için kod hazırlandı. Son eklemeler için çalışmalara başlandı. Pomodoro timer eklenmesi için kod hazırlandı.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**:70
+- 
 
 - **Puan tamamlama mantığı**:
+- Projenin tamamlanması için 200 puanlık backlog kaldı. Üzerinde durulması gereken itemler önceliklendirilerek sprint tamamlandı. Bu sprintte en az 150 puan tamamlanması hedeflendi. 
 
 - **Backlog düzeni ve Story seçimleri**: 
+- Storyler önceliklendirildiği sıralara göre tamamlanmaya başladı. Timer eklenerek görev tamamlandı uyarısı eklendi.
 
 
 - **Daily Scrum**: 
+- [Sprint 3 için daily scrum belgesine buradan ulaşabilirsiniz.](https://docs.google.com/document/d/1vdq_oda4mUmG3uN-5u-50ypZmPmlC7hJ/edit?usp=sharing&ouid=114758085520175888357&rtpof=true&sd=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
+- ![sblog](https://user-images.githubusercontent.com/91016593/172240799-15b622b6-3a90-464f-8757-25963139ca93.PNG)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- ![wtd1](https://user-images.githubusercontent.com/91016593/172237310-233a4c55-b6d4-4399-943f-30800edebe15.PNG)
+- ![wtd2](https://user-images.githubusercontent.com/91016593/172237323-8b967551-0848-4027-830e-c13a8f70ea79.PNG)
+- ![wtd3](https://user-images.githubusercontent.com/91016593/172237337-90f32503-ff1e-497f-b1e2-12cfb932907a.PNG)
+
 
 
 - **Sprint Review**: 
-
+Proje boyunca tamamlanaması planlanan 280 puan üzerinden 150 puan tamamlanarak proje bitirildi.
 
 - **Sprint Retrospective:**
+- Sprint2ye göre daha az iletişim kurduk. Çalışmalara düzenli devam ettik fakat iletişim kopukluğundan hedeflerimize tamamen ulaşamadık. Uygulama üzerinde somut ilerlemelerle devam ettik ve ekip çalışmasını tamamlamaya çalıştık. 
 
 
 -**Diğer Notlar**:
